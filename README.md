@@ -1,10 +1,9 @@
 # Mans_CV
 ## Profile
 **Foto** 
-![Foto](https://cdn.discordapp.com/attachments/783352004881547264/805792398785511464/1612186250566.jpg)
-Format: ![Alt Text](url)
-**Vards, Uzvards** Maksims Visockis
-**Vecums** 16 gadi
+* ![Foto](https://cdn.discordapp.com/attachments/783352004881547264/805792398785511464/1612186250566.jpg)
+* **Vards, Uzvards** Maksims Visockis
+* **Vecums** 16 gadi
 ## Izglitība
 * *2010.g. – 2020.g. Jūrmalas pils. Kauguru vidusskola*
 
