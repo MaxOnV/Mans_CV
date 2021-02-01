@@ -9,9 +9,9 @@
 
 * *2020.g līdz šai dienai Profesionālās izglītības kompetences centrs (PIKC) Rīgas Valsts tehnikums(RVT) 1.kurss.*
 ## Prāsmes (Valoda)
-|*Krievu valoda*   | **Dzimta**       |      
-|*Latviešu valoda* | **labas prasmes**|
-|*Angļu valoda*    | **labas prasmes**|
+* |*Krievu valoda*   | **Dzimta**       |      
+* |*Latviešu valoda* | **labas prasmes**|
+* |*Angļu valoda*    | **labas prasmes**|
 ## Hobiji
 * Lasīšana
 ## Pieredze programmēšanā (valodas)
