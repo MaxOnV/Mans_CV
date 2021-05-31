@@ -1,7 +1,6 @@
 # Mans_CV
 ## Profile
 **Foto** 
-* ![Foto](https://cdn.discordapp.com/attachments/783352004881547264/805792398785511464/1612186250566.jpg)
 * _Vards, Uzvards_ - Maksims Visockis
 * _Vecums_ - 16 gadi
 ## Izglitība
